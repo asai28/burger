@@ -1,0 +1,13 @@
+body{
+    /* background-color: lightblue; */
+    font-family: 'Merriweather', serif;
+    background-image: url("https://images5.alphacoders.com/415/415257.jpg");
+    background-size: cover;
+    color: white;
+}
+
+#heading{
+    align-content: center;
+    color: white;
+    background-color: orange;
+}
